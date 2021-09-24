@@ -152,3 +152,6 @@ sketch
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,linux,node,react,dotenv
+
+# common module build output
+build
